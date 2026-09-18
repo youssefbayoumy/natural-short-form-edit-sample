@@ -10,6 +10,7 @@ An original 9-second sample edit demonstrating simple cuts, natural pacing, safe
 
 - [Download or view the vertical short-form sample](natural-couch-sample.mp4)
 - [View the original vertical glitch/CRT spec loop](vertical-glitch-spec/README.md)
+- [View the 14-second cinematic hype promo spec edit](cinematic-hype-spec/README.md)
 
 The edit and caption sequence are original. Source clips are free stock previews from Mixkit:
 
